@@ -1,0 +1,8 @@
+numpy
+torch
+albumentations
+torchsummary
+torchgeometry
+matplotlib
+pandas
+wandb

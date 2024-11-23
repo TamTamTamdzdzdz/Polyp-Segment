@@ -1,0 +1,43 @@
+{
+  "os": "Windows-11-10.0.26100-SP0",
+  "python": "3.12.3",
+  "startedAt": "2024-11-22T15:45:21.649776Z",
+  "program": "d:\\GIT-PULLING\\Polyp-Segment\\train.py",
+  "codePath": "train.py",
+  "git": {
+    "remote": "https://github.com/TamTamTamdzdzdz/Polyp-Segment.git",
+    "commit": "ee4e8d37a554e260a68a06bafd9fc996590ce3b2"
+  },
+  "email": "tam.nt225527@sis.hust.edu.vn",
+  "root": "D:\\GIT-PULLING\\Polyp-Segment",
+  "host": "MSI",
+  "username": "Admin",
+  "executable": "D:\\AnacondaFolder\\envs\\first-env\\python.exe",
+  "codePathLocal": "train.py",
+  "cpu_count": 10,
+  "cpu_count_logical": 16,
+  "gpu": "[NVIDIA GeForce RTX 4050 Laptop GPU]",
+  "gpu_count": 1,
+  "disk": {
+    "/": {
+      "total": "328203235328",
+      "used": "190736498688"
+    }
+  },
+  "memory": {
+    "total": "16866516992"
+  },
+  "cpu": {
+    "count": 10,
+    "countLogical": 16
+  },
+  "gpu_nvidia": [
+    {
+      "name": "NVIDIA GeForce RTX 4050 Laptop GPU",
+      "memoryTotal": "6439305216",
+      "cudaCores": 2560,
+      "architecture": "Ada"
+    }
+  ],
+  "cudaVersion": "12.3"
+}
